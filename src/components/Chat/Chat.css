@@ -1,0 +1,18 @@
+.chatBody{
+}
+.wholeChat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    top: 15%;
+    left: 35%;
+    position: absolute;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(21, 22, 24);
+    width: 100%;
+    height: 100%;
+}

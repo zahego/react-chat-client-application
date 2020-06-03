@@ -1,0 +1,18 @@
+button{
+    height: 50px;
+    background-color: peru;
+    border-top: 1px solid rgb(182, 112, 43);
+    color: mintcream;
+    width: 70px;
+    border:0;
+    padding: 0 10px;
+    cursor: pointer;
+
+}
+input{
+    height: 50px;
+    padding: 0 10px;
+    border:0px;
+    border-top: 1px solid peru;
+    width: 360px;
+}

@@ -1,0 +1,35 @@
+.messageContainer{
+    display:flex; 
+    flex-direction:row; 
+    margin: 10px;
+    height:auto;
+}
+
+#justifiedEnd{
+    justify-content: flex-end;
+}
+
+.messageBox{
+  background-color: whitesmoke;
+  color: cadetblue;
+  width: auto;
+  max-width: 250px;
+  border-radius: 10px;
+  min-height: 50px;
+  height:auto;
+  padding:10px;
+  display:flex;
+  align-items: center;
+  flex-wrap: wrap;
+  word-break: break-word;
+}
+
+#backgroundBlue{
+    background-color: cadetblue !important;
+    color: whitesmoke !important;
+}
+
+.sentText{
+    color: rgba(32, 27, 5, 0.4) !important;
+    padding:0 10px;
+}

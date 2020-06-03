@@ -1,0 +1,34 @@
+.joinOuterContainer{
+    top: 15%;
+    left:38%;
+    position: absolute;
+}
+.innerContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.innerContainer h1, .innerContainer h3{
+    color:peru;
+}
+.innerContainer input{
+    margin-top:5px;
+}
+.buttonsub{
+    margin-top:20px;
+    width: 150px !important;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.header img{
+    width: 50px;
+    height: 50px;
+    padding: 10px 15px;
+}
+.header img:nth-child(1){
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
