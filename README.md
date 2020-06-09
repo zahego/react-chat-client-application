@@ -99,6 +99,8 @@ remember to add the new server link to the cosnt ENDPOINT at src/components/Chat
 - join an existed room or create your own room and invite other to join the chat using the same room name
 - send message to everyone in the room and recieved text message back
 
+## Server
+https://react-chat-server-application.herokuapp.com/
 
 ## Technologies stack
 client:  
